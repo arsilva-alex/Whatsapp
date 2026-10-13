@@ -1,0 +1,8 @@
+{
+  "chat_list": "#pane-side",
+  "search_box": "#side input[type=\"text\"], #side div[contenteditable=\"true\"]",
+  "message": "div[data-id]",
+  "attachment": "[data-icon^=\"document-\"], [aria-label=\"Abrir imagem\"]",
+  "menu_btn": "[aria-label^=\"Abrir op\"], [aria-label^=\"Menu de contexto\"]",
+  "menu_item": "[role=\"menuitem\"]"
+}
